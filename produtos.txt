@@ -1,0 +1,5 @@
+15 Feijao Alimento 54 16.50
+21 Cerveja Bebidas 10 5.00
+10 Geleia Alimentos 25 5.50
+60 Agua Bebidas 50 2.00
+28 Alface Alimentos 16 2.00
