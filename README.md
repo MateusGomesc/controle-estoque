@@ -8,6 +8,6 @@ Projeto simples feito para realizar um controle de estoque de supermercado, faze
 
 ### 📸 Preview
 
-<img src="./img/menu" />
-<img src="./img/read" />
-<img src="./img/delete" />
+<img src="./img/menu.png" />
+<img src="./img/read.png" />
+<img src="./img/delete.png" />
